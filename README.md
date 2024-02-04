@@ -5,3 +5,5 @@ I am progressing with learning Git and GitHub, but unfortunately this happens ve
 because i have a lot of things to learn, and this slow pace is prolongin the time needed for successfully learning Java programming.
 
 This is my second attempt for pull request, of a new branch to the main branch.
+
+I am from Sofia, Bulgaria.
