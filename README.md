@@ -7,3 +7,4 @@ because i have a lot of things to learn, and this slow pace is prolongin the tim
 This is my second attempt for pull request, of a new branch to the main branch.
 
 I am from Sofia, Bulgaria.
+Some things disappeared =)
